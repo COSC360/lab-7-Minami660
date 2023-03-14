@@ -1,7 +1,7 @@
 <?php
 
-$email = "";
-$password = "";
+$email = "Minamisato@email.com";
+$password = "123456789";
 
 
 ?>
